@@ -1,0 +1,18 @@
+#include<iostream.h>
+void main (void)
+{	
+	\\tipuri de variabile mai jos
+	int a; \\intreg cu semn
+	char b; \\un singur caracter (exemplu litere, punctuatie...)
+	float c; \\ numere reale cu virgula mobila in simpla precizie
+	double d; \\ numere reale in format cu virgula mobila in dubla precizie
+
+	printf ("Totul despre C/C++");
+	
+	printf ("Totutl ");
+	printf ("despre ");
+	printf ("C/C++");
+	
+	printf ("Aceasta este linia unu. \n"); // \n se numeste caracter linie noua
+	printf ("Aceasta este linia a doua");
+}
